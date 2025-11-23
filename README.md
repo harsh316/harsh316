@@ -1,3 +1,7 @@
+![](https://github.com/harsh316/7Jly.gif)
+
+
+
 # 💫 About Me:
 👋 Who am I?<br><br>I’m Harshit Dodia, an IT & Cybersecurity enthusiast with experience in networking, security operations, and system administration.<br><br>🔍 What am I looking for?<br><br>Opportunities to solve real-world problems, explore threat intelligence, and build practical tech solutions.<br><br>📚 What am I learning?<br><br>Advanced threat intelligence (OpenCTI, MISP), automation with Python & PowerShell, and networking & security (CCNA & CEH skills in action).
 
