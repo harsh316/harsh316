@@ -1,4 +1,4 @@
-![](https://github.com/harsh316/7JLy.gif)
+(https://github.com/harsh316/7JLy.gif)
 
 
 
